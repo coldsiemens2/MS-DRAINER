@@ -6,17 +6,19 @@
 🔸 Binance Wallet
 💰 Wallet Connect
 
-🪙 Supported Chains:
-    1: 'https://rpc.ankr.com/eth' + (( == '') ? '' : /${}), // Ethereum 🔹
-    10: 'https://rpc.ankr.com/optimism' + (( == '') ? '' : /${}), // Optimism 🔴
-    56: 'https://rpc.ankr.com/bsc' + (( == '') ? '' : /${}), // Binance Smart Chain 🔸
-    137: 'https://rpc.ankr.com/polygon' + (( == '') ? '' : /${}), // Polygon 🟣
-    250: 'https://rpc.ankr.com/fantom' + (( == '') ? '' : /${}), // Fantom 🔃
-    43114: 'https://rpc.ankr.com/avalanche' + (( == '') ? '' : /${}), // Avalanche 🔴
-    42161: 'https://rpc.ankr.com/arbitrum' + (( == '') ? '' : /${}), // Arbitrum 📶
-    8453: 'https://rpc.ankr.com/base' + (( == '') ? '' : /${}), // Base 💰
-    324: 'https://rpc.ankr.com/zksync_era' + (( == '') ? '' : /${}), // zkSync Era ↔️
-    369: 'https://pulsechain.publicnode.com', // Pulse 🪙
+🪙 **Supported Chains:**
+- Ethereum 🔹
+- Optimism 🔴
+- Binance Smart Chain 🔸
+- Polygon 🟣
+- Fantom 🔃
+- Avalanche 🔴
+- Arbitrum 📶
+- Base 💰
+- zkSync Era ↔️
+- Pulse 🪙
+
+In addition to the above, we support **all EVM-compatible networks**, ensuring flexibility and broad integration with various blockchain ecosystems.
 
 💲 Supported Assets:  Native Coins, Tokens and NFTs.
 
