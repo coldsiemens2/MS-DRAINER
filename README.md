@@ -31,5 +31,5 @@ In addition to the above, we support **all EVM-compatible networks**, ensuring f
 🥶 In addition, our platform provides a wide range of additional features, including the ability to receive notifications via ✉️Telegram bot and many other innovative solutions. The above information is just a brief introduction to the numerous features of our feature-rich tool. Feel free to contact us to learn more about how we can help you achieve your goals 🤑
 
 💠 Cost: 999$
-📱 Get a demo in our group or send a direct message to telegram  @richthekid7.  
-Group - https://t.me/MS_DRAINER_OFFICIAL
+📱 Get a demo in our group or send a direct message to telegram  @richthekid7 
+Group - @MS_DRAINER_OFFICIAL
