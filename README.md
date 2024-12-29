@@ -1,4 +1,4 @@
-# MS-DRAINER
+# DRAINER
 👨‍💻 Supported wallets:
 😘 MetaMask (Blockchain ✅)
 🛡 Trust Wallet (Hashdit ✅)
